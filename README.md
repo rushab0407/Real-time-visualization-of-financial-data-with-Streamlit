@@ -1,6 +1,9 @@
 # Real-time-visualization-of-financial-data-with-Streamlit
 
-A simple interactive dashboard to explore and visualize profit & loss data.
+A  interactive dashboard to explore and visualize profit & loss data.
+
+![Dashboard Screenshot](assets/123.png)
+
 
 ## 🔧 Features
 - Displays income, expenses, and net profit
